@@ -26,3 +26,6 @@
 - [Scrum con un Café](https://www.linkedin.com/learning/scrum-con-un-cafe)
 - [Roles de Scrum](https://www.linkedin.com/learning/scrum-roles)
 - [Antipatrones de Scrum](https://www.linkedin.com/learning/scrum-anti-patrones/)
+
+## Libros
+- (Scrum: El arte de hacer el doble de trabajo en la mitad de tiempo)[https://www.amazon.com/-/es/gp/product/B01EIQAALK/]
